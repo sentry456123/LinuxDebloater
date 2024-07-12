@@ -15,3 +15,5 @@ There are different methods of running the shell script. The methods are as foll
 1. type `sh LinuxDebloater.sh`
 
 # Bloatware that is removed
+# Quick download link
+`https://raw.githubusercontent.com/sentry456123/LinuxDebloater/main/LinuxDebloater.sh`
