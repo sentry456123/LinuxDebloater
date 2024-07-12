@@ -7,11 +7,11 @@ WARNING: I do NOT take responsibility for what may happen to your system! Run sc
 # How To Run the LinuxDebloater.sh
 There are different methods of running the shell script. The methods are as follows:
 
-## First method
+### First method
 1. type `chmod +x LinuxDebloater.sh`
 2. type `./LinuxDebloater.sh`
 
-## Second method
+### Second method
 1. type `sh LinuxDebloater.sh`
 
 # Bloatware that is removed
