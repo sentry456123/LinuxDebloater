@@ -11,5 +11,3 @@ curl https://raw.githubusercontent.com/sentry456123/LinuxDebloater/main/LinuxDeb
 ```
 
 # Bloatware that is removed
-# Quick download link
-https://raw.githubusercontent.com/sentry456123/LinuxDebloater/main/LinuxDebloater.sh
