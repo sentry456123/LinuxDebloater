@@ -1,3 +1,5 @@
+#!/bin/sh
+
 echo "Debloating Linux operating system..."
 echo "Done!"
 echo "0 pre-installed software removed"
