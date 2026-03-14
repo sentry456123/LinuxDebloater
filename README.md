@@ -11,3 +11,6 @@ curl https://raw.githubusercontent.com/sentry456123/LinuxDebloater/main/LinuxDeb
 ```
 
 # Bloatware that is removed
+
+# Portability
+This script can run on ANY distros that support bash scripting! Just take one shell script and run it! Simple as that!
