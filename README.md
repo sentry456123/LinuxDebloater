@@ -2,7 +2,7 @@
 Script/Utility/Application to debloat Linux, to remove Linux pre-installed unnecessary applications, stop some telemetry functions, disable unnecessary scheduled tasks, and more...
 
 # Disclaimer
-WARNING: I do NOT take responsibility for what may happen to your system! Run scripts at your own risk!
+WARNING: I do NOT take responsibility for what may happen to your system! Run this script at your own risk!
 
 # How To Run the LinuxDebloater.sh
 
@@ -10,7 +10,7 @@ WARNING: I do NOT take responsibility for what may happen to your system! Run sc
 curl https://raw.githubusercontent.com/sentry456123/LinuxDebloater/main/LinuxDebloater.sh | sh
 ```
 
-# Bloatware that is removed
+# Bloatwares that are going to be removed
 
 # Portability
 This script can run on ANY distros that support bash scripting! Just take one shell script and run it! Simple as that!
